@@ -97,9 +97,10 @@
             this.option1.Name = "option1";
             this.option1.Size = new System.Drawing.Size(345, 41);
             this.option1.TabIndex = 4;
+            this.option1.Tag = "0";
             this.option1.Text = "選項1";
             this.option1.UseVisualStyleBackColor = true;
-            this.option1.Click += new System.EventHandler(this.option1_Click);
+            this.option1.Click += new System.EventHandler(this.option_Click);
             // 
             // option2
             // 
@@ -109,9 +110,10 @@
             this.option2.Name = "option2";
             this.option2.Size = new System.Drawing.Size(345, 41);
             this.option2.TabIndex = 4;
+            this.option2.Tag = "1";
             this.option2.Text = "選項2";
             this.option2.UseVisualStyleBackColor = true;
-            this.option2.Click += new System.EventHandler(this.option2_Click);
+            this.option2.Click += new System.EventHandler(this.option_Click);
             // 
             // option3
             // 
@@ -121,9 +123,10 @@
             this.option3.Name = "option3";
             this.option3.Size = new System.Drawing.Size(345, 41);
             this.option3.TabIndex = 4;
+            this.option3.Tag = "2";
             this.option3.Text = "選項3";
             this.option3.UseVisualStyleBackColor = true;
-            this.option3.Click += new System.EventHandler(this.option3_Click);
+            this.option3.Click += new System.EventHandler(this.option_Click);
             // 
             // option4
             // 
@@ -133,9 +136,10 @@
             this.option4.Name = "option4";
             this.option4.Size = new System.Drawing.Size(345, 41);
             this.option4.TabIndex = 4;
+            this.option4.Tag = "3";
             this.option4.Text = "選項4";
             this.option4.UseVisualStyleBackColor = true;
-            this.option4.Click += new System.EventHandler(this.option4_Click);
+            this.option4.Click += new System.EventHandler(this.option_Click);
             // 
             // statusLabel
             // 
@@ -160,6 +164,7 @@
             this.Controls.Add(this.startbutton);
             this.Controls.Add(this.problemText);
             this.Controls.Add(this.openbutton);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MaximizeBox = false;
             this.Name = "MainForm";
             this.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Hide;

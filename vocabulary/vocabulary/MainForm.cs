@@ -132,47 +132,11 @@ namespace vocabulary
                 option3.Enabled = option4.Enabled = false;
         }
 
-        private void option1_Click(object sender, EventArgs e)
+        private void option_Click(object sender, EventArgs e)
         {
             answered++;
             dictionary[selectId].questioned++;
-            if (rightedId == 0)
-            {
-                corrected++;
-                dictionary[selectId].righted++;
-            }
-            randNewProblem();
-        }
-
-        private void option2_Click(object sender, EventArgs e)
-        {
-            answered++;
-            dictionary[selectId].questioned++;
-            if (rightedId == 1)
-            {
-                corrected++;
-                dictionary[selectId].righted++;
-            }
-            randNewProblem();
-        }
-
-        private void option3_Click(object sender, EventArgs e)
-        {
-            answered++;
-            dictionary[selectId].questioned++;
-            if (rightedId == 2)
-            {
-                corrected++;
-                dictionary[selectId].righted++;
-            }
-            randNewProblem();
-        }
-
-        private void option4_Click(object sender, EventArgs e)
-        {
-            answered++;
-            dictionary[selectId].questioned++;
-            if (rightedId == 3)
+            if ( rightedId.ToString() == ((Button)sender).Tag.ToString() )
             {
                 corrected++;
                 dictionary[selectId].righted++;
