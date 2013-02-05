@@ -1,0 +1,10 @@
+﻿year	年
+yellow	黃色
+yes	是
+yesterday	昨天
+yet	尚未
+yogurt	優格
+you	你
+young	年輕的
+zero	零
+zoo	動物園
