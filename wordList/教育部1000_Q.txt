@@ -1,0 +1,5 @@
+﻿queen	皇后
+question	問題
+quick	迅速的
+quiet	安靜的
+quite	相當地
