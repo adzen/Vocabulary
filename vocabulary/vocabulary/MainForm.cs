@@ -25,21 +25,23 @@ namespace vocabulary
 
         private void loadData(string filename)
         {
+            dictionary.Clear();
+            
             string[] lines = File.ReadAllLines(filename, Encoding.UTF8);
             if(lines.Length <= 0)
             {
                 MessageBox.Show(@"It's an empty file!");
                 return;
             }
-            dictionary.Clear();
-
-            int newWordCount = 0;
+            
+            int newWordCount = 0, lineNumber = 1;
             foreach (string line in lines)
             {
                 string[] tokens = line.Split(new char[] { '\t' });
                 if (tokens.Length != 4 && tokens.Length != 2) 
                 {
-                    MessageBox.Show(@"Invalid input format!");
+                    MessageBox.Show(@"Invalid input format at Line " + lineNumber.ToString());
+                    dictionary.Clear();
                     return;
                 }
 
@@ -61,6 +63,8 @@ namespace vocabulary
                     dictionary.Insert(dictionary.Count, aword);
                     newWordCount++;
                 }
+
+                lineNumber++;
             }
 
             MessageBox.Show(@"Total = " + dictionary.Count.ToString() + @", New Word = " + newWordCount.ToString());
