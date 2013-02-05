@@ -1,0 +1,16 @@
+﻿keep	保持
+key	鑰匙
+kick	踢
+kid	小孩子
+kill	殺
+kilogram	公斤
+kind	種類
+king	國王
+kiss	親吻
+kitchen	廚房
+kite	風箏
+knee	膝蓋
+knife	刀
+knock	敲
+know	知道
+knowledge	知識
