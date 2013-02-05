@@ -1,0 +1,6 @@
+﻿vacation	假期
+vegetable	蔬菜
+very	非常
+video	放映機
+visit	拜訪
+voice	聲音
