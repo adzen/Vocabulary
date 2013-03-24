@@ -1,39 +1,39 @@
-﻿gain
-garage
-gate
-gather
-general
-generous
-genius
-gentle
-gentleman
-geography
-gesture
-ghost
-giant
-glasses
-glue
-goal
-God
-gold
-golden
-golf
-goodness
-goose
-government
-gram
-granddaughter
-grandpa
-grandma
-grandson
-grape
-greedy
-greet
-guard
-guava
-guest
-guide
-guitar
-gun
-guy
-gym
+﻿gain    獲得
+garage  車庫
+gate    大門
+gather  收集
+general 普遍的
+generous        慷慨的
+genius  天賦
+gentle  仁慈的
+gentleman       紳士
+geography       地理學
+gesture 手勢
+ghost   幽靈
+giant   巨人
+glasses 眼鏡
+glue    膠水
+goal    目的地
+God     上帝
+gold    金
+golden  金色的
+golf    高爾夫球
+goodness        美德
+goose   鵝
+government      政府
+gram    克
+granddaughter   孫女
+grandpa 爺爺
+grandma 奶奶
+grandson        孫子
+grape   葡萄
+greedy  貪吃的
+greet   招呼
+guard   衛兵
+guava   芭樂
+guest   來賓
+guide   導遊
+guitar  吉他
+gun     槍
+guy     小伙子
+gym     體育館

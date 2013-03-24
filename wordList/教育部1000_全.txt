@@ -51,7 +51,7 @@ baby	嬰兒
 back	背後
 bad	壞的
 bag	袋子
-backery	麵包店
+bakery	麵包店
 ball	球
 banana	香蕉
 band	樂隊

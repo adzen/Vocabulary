@@ -1,59 +1,59 @@
-﻿abroad
-absent
-accept
-accident
-across
-act
-action
-active
-activity
-actor
-actress
-actually
-add
-address
-admire
-adult
-advertisement
-advice
-advise
-affect
-against
-ahead
-aim
-air conditioner
-airlines
-alarm
-album
-alike
-alive
-allow
-alone
-aloud
-alphabet
-altogether
-ambulance
-among
-amount
-ancient
-angel
-anger
-ankle
-ant
-anybody
-anywhere
-apologize
-appreciate
-area
-argue
-armchair
-army
-arrange
-artist
-asleep
-assistant
-assume
-attack
-attention
-available
-avoid
+﻿abroad  國外
+absent  缺席的
+accept  接受
+accident        事故
+across  橫越
+act     扮演
+action  行動
+active  活潑的
+activity        活動
+actor   男演員
+actress 女演員
+actually        實際上
+add     增加
+address 地址
+admire  欣賞
+adult 成年的
+advertisement   廣告
+advice  勸告
+advise  勸告
+affect  影響
+against 反對
+ahead   在前
+aim     瞄準
+air conditioner 空調
+airlines        航線
+alarm   警報
+album   相簿
+alike   相同的
+alive   活著的
+allow   允許
+alone   單獨的
+aloud   出聲地
+alphabet        字母
+altogether      完全
+ambulance       救護車
+among   在...之中
+amount  總計
+ancient 古代的
+angel   天使
+anger   生氣
+ankle   腳踝
+ant     螞蟻
+anybody 任何人
+anywhere        任何地方
+apologize       道歉
+appreciate      欣賞
+area    面積
+argue   爭吵
+armchair        扶手椅
+army    軍隊
+arrange 安排
+artist  藝術家
+asleep  睡著的
+assistant       助手
+assume  假定為
+attack  攻擊
+attention       專心
+available       可用的
+avoid   避開

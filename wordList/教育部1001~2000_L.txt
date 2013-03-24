@@ -1,27 +1,27 @@
-﻿lack
-lady
-lamb
-lantern
-latest
-latter
-law
-lawyer
-lay
-leaf
-lettuce
-level
-lick
-lid
-lift
-lightning
-likely
-limit
-link
-liquid
-liter
-loaf
-local
-lock
-locker
-loser
-lovely
+﻿lack    缺少
+lady    小姐
+lamb    小羊
+lantern 燈籠
+latest  最新的
+latter  後面的
+law     法律
+lawyer  律師
+lay     下蛋
+leaf    葉子
+lettuce 萵苣
+level   水平面
+lick    舔
+lid     蓋子
+lift    抬起
+lightning       閃電
+likely  很可能
+limit   限制
+link    連接
+liquid  液體
+liter   公升
+loaf    麵包
+local   當地的
+lock    鎖
+locker  衣物櫃
+loser   遺失者
+lovely  可愛的

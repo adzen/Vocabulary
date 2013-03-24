@@ -1,14 +1,14 @@
-﻿jam
-jazz
-jealous
-jeep
-joke
-journalist
-judge
-kangaroo
-ketchup
-kilometer
-kindergarten
-kingdom
-kitten
-koala
+﻿jam     塞進
+jazz    爵士樂
+jealous 忌妒的
+jeep    吉普車
+joke    玩笑
+journalist      新聞工作者
+judge   審判
+kangaroo        袋鼠
+ketchup 番茄醬
+kilometer       公里
+kindergarten    幼稚園
+kingdom 王國
+kitten  小貓
+koala   無尾熊

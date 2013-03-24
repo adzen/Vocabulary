@@ -1,48 +1,48 @@
-﻿ma'am
-mad
-magazine
-magician
-mail carrier
-main
-major
-male
-mall
-manager
-mango
-manner
-marker
-marry
-marvelous
-mask
-mass
-master
-mat
-match
-mathematics
-maximum
-meaning
-measure
-mechanic
-member
-memory
-men's room
-message
-metal
-meter
-method
-microwave
-middle
-midnight
-minor
-minus
-mirror
-mix
-model
-monster
-mop
-mosquito
-motion
-movement
-MRT
-mud
-musician
+﻿ma'am   夫人
+mad     瘋狂的
+magazine        雜誌
+magician        魔術師
+mail carrier    郵差
+main    主要的
+major   主修
+male    男子
+mall    大道
+manager 經理
+mango   芒果
+manner  方法
+marker  記分員
+marry   結婚
+marvelous       非凡的
+mask    面具
+mass    大眾的
+master  主人
+mat     地毯
+match   相配
+mathematics     數學
+maximum 最大值
+meaning 意義
+measure 測量
+mechanic        技工
+member  會員
+memory  記憶
+men's room      男廁
+message 消息
+metal   金屬
+meter   儀表
+method  方法
+microwave       微波
+middle  中間的
+midnight        午夜
+minor   較少的
+minus   減去
+mirror  鏡子
+mix     使混合
+model   模型
+monster 怪物
+mop     拖把
+mosquito        蚊子
+motion  移動
+movement        活動
+MRT     捷運
+mud     泥巴
+musician        音樂家

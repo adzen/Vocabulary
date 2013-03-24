@@ -1,26 +1,26 @@
-﻿nail
-napkin
-narrow
-nation
-natural
-nature
-naughty
-nearly
-necessary
-necklace
-needle
-negative
-neither
-nephew
-nervous
-nest
-net
-newspaper
-nice-looking
-niece
-noisy
-none
-nor
-note
-novel
-nut
+﻿nail    釘子
+napkin  餐巾
+narrow  狹窄的
+nation  國家
+natural 自然的
+nature  自然
+naughty 調皮的
+nearly  幾乎
+necessary       必要的
+necklace        項鍊
+needle  針
+negative        負面的
+neither 兩者皆不
+nephew  姪兒
+nervous 神經質的
+nest    巢
+net     網子
+newspaper       報紙
+nice-looking    好看的
+niece   姪女
+noisy   嘈雜的
+none    一點也不
+nor     也不
+note    筆記
+novel   小說
+nut     堅果

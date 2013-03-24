@@ -1,51 +1,51 @@
-﻿fail
-fair
-false
-fancy
-fantastic
-far
-fashionable
-faucet
-fault
-fear
-fee
-feed
-feeling
-female
-fence
-fever
-fight
-film
-final
-fit
-flag
-flashlight
-flat tire
-flight
-flour
-flu
-flute
-focus
-fog
-foggy
-fool
-foolish
-football
-forest
-forgive
-form
-formal
-former
-forward
-fox
-frank
-freedom
-freezer
-freezing
-French fries
-friendship
-frighten
-frisbee
-frog
-fry
-furniture
+﻿fail    失敗
+fair    公平的
+false   謬誤的
+fancy   花俏的
+fantastic       想像的
+far     遠的
+fashionable     時尚的
+faucet  水龍頭
+fault   缺陷
+fear    害怕
+fee     小費
+feed    飼養
+feeling 感覺
+female  女人
+fence   籬笆
+fever   發燒
+fight   打仗
+film    膠捲
+final   最後的
+fit     適合
+flag    旗子
+flashlight      手電筒
+flat tire       輪胎
+flight  飛翔
+flour   麵粉
+flu     流行性感冒
+flute   長笛
+focus   焦點
+fog     霧
+foggy   多霧的
+fool    傻瓜
+foolish 愚蠢的
+football        足球
+forest  森林
+forgive 原諒
+form    形狀
+formal  正式的
+former  早期的
+forward 向前
+fox     狐
+frank   坦白的
+freedom 自由
+freezer 冷凍庫
+freezing        凍結的
+French fries    薯條
+friendship      友誼
+frighten        使驚恐
+frisbee 飛盤
+frog    青蛙
+fry     油炸
+furniture       傢俱
