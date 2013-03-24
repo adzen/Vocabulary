@@ -1,137 +1,137 @@
-﻿safety
-sail
-sailor
-salesman
-sample
-sand
-satisfy
-saucer
-scared
-scarf
-scene
-scenery
-science
-scientist
-scooter
-score
-screen
-seafood
-search
-secondary
-secret
-secretary
-section
-seed
-seek
-seem
-seesaw
-select
-selfish
-semester
-sense
-servant
-serve
-service
-set
-shake
-shark
-sharp
-sheet
-shelf
-shine
-shop
-shoot
-shore
-shorts
-shout
-shower
-shrimp
-shut
-sight
-sign
-silence
-silent
-silly
-silver
-similar
-sincere
-single
-sink
-skate
-ski
-skill
-skillful
-skin
-skinny
-sleepy
-slender
-slice
-slide
-slim
-slippers
-snail
-sneakers
-sneaky
-snowman
-snowy
-soap
-soccer
-social
-society
-soda
-soft drink
-softball
-soldier
-solve
-somebody
-sore
-soul
-sour
-soy-sauce
-spaghetti
-speaker
-speech
-speed
-spider
-spirit
-spot
-spread
-stairs
-stamp
-state
-stationery
-steal
-steam
-step
-stingy
-stomachache
-stone
-storm
-stormy
-stove
-straight
-straw
-strawberry
-stream
-strike
-style
-subject
-subway
-succeed
-success
-such
-sudden
-suggest
-suit
-super
-supper
-support
-surf
-survive
-swallow
-swan
-sweep
-swimsuit
-swing
-symbol
-system
+﻿safety  安全
+sail    航行
+sailor  水手
+salesman        推銷員
+sample  樣品
+sand    沙子
+satisfy 使高興
+saucer  茶托
+scared  吃驚的
+scarf   圍巾
+scene   一幕
+scenery 風景
+science 科學
+scientist       科學家
+scooter 踏板車
+score   得分
+screen  屏幕
+seafood 海鮮
+search  搜尋
+secondary       第二的
+secret  祕密的
+secretary       秘書
+section 片段
+seed    種子
+seek    追求
+seem    看起來好像
+seesaw  蹺蹺板
+select  選擇
+selfish 自私的
+semester        一學期
+sense   意識到
+servant 僕人
+serve   服務
+service 服務
+set     一套
+shake   搖動
+shark   鯊魚
+sharp   鋒利的
+sheet   床單
+shelf   架子
+shine   發光
+shop    商店
+shoot   發射
+shore   海岸
+shorts  運動短褲
+shout   喊叫
+shower  陣雨
+shrimp  小蝦
+shut    關上
+sight   視力
+sign    記號
+silence 安靜
+silent  沉默的
+silly   糊塗的
+silver  銀
+similar 相像的
+sincere 真心的
+single  單一的
+sink    下沉
+skate   冰鞋
+ski     滑雪
+skill   技能
+skillful        熟練的
+skin    皮膚
+skinny  薄膜狀的
+sleepy  想睡的
+slender 苗條的
+slice   切片
+slide   滑動
+slim    纖細的
+slippers        拖鞋
+snail   蝸牛
+sneakers        鬼鬼祟祟的人
+sneaky  鬼鬼祟祟的
+snowman 雪人
+snowy   下雪的
+soap    肥皂
+soccer  足球
+social  社會的
+society 社會
+soda    蘇打
+soft drink      汽水
+softball        壘球
+soldier 士兵
+solve   解決
+somebody        有人
+sore    疼痛的
+soul    靈魂
+sour    酸的
+soy-sauce       醬油
+spaghetti       義大利麵條
+speaker 演講者
+speech  說話能力
+speed   速度
+spider  蜘蛛
+spirit  精神
+spot    斑點
+spread  延長
+stairs  階梯
+stamp   郵票
+state   狀態
+stationery      信紙
+steal   偷取
+steam   蒸氣
+step    腳步
+stingy  小氣的
+stomachache     胃痛
+stone   石頭
+storm   暴風雨
+stormy  暴風雨的
+stove   暖爐
+straight        筆直的
+straw   稻草
+strawberry      草莓
+stream  小河
+strike  打擊
+style   風格
+subject 主題
+subway  地下鐵
+succeed 成功
+success 成功
+such    這樣的
+sudden  突然的
+suggest 建議
+suit    適合
+super   過度的
+supper  晚飯
+support 支持
+surf    衝浪
+survive 生存
+swallow 燕子
+swan    天鵝
+sweep   清掃
+swimsuit        泳衣
+swing   搖擺
+symbol  象徵
+system  系統

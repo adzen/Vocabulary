@@ -1,16 +1,16 @@
-﻿obey
-object
-ocean
-offer
-omit
-oneself
-onion
-operation
-opinion
-ordinary
-oven
-overpass
-overseas
-over-weight
-owner
-ox
+﻿obey    服從
+object  物體
+ocean   海洋
+offer   提供
+omit    遺漏
+oneself 自己
+onion   洋蔥
+operation       運轉
+opinion 意見
+ordinary        平常的
+oven    爐子
+overpass        天橋
+overseas        海外
+over-weight     過重
+owner   所有人
+ox      牛

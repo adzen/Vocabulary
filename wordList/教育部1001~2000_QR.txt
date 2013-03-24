@@ -1,51 +1,51 @@
-﻿quarter
-quit
-quiz
-race
-railroad
-raincoat
-raise
-rare
-rat
-rather
-reach
-realize
-reason
-receive
-record
-recorder
-recover
-rectangle
-recycle
-refuse
-regret
-regular
-reject
-relative
-remind
-rent
-repair
-report
-reporter
-respect
-responsible
-result
-return
-review
-revise
-rise
-rob
-robot
-rock
-role
-roll
-roller skate
-roof
-root
-rope
-row
-rub
-rubber
-rude
-ruin
-rush
+﻿quarter 四分之一
+quit    離開
+quiz    小考
+race    賽跑
+railroad        鐵路
+raincoat        雨衣
+raise   舉起
+rare    罕見的
+rat     鼠
+rather  有點兒
+reach   抵達
+realize 了解
+reason  理由
+receive 收到
+record  記錄
+recorder        錄音機
+recover 恢復
+rectangle       長方形
+recycle 回收
+refuse  拒絕
+regret  感到後悔
+regular 有規則的
+reject  拒絕
+relative        相對的
+remind  提醒
+rent    租用
+repair  修理
+report  報告
+reporter        報告人
+respect 尊敬
+responsible     負責任的
+result  結果
+return  返回
+review  寫書評
+revise  修訂
+rise    上升
+rob     搶劫
+robot   機器人
+rock    搖動
+role    角色
+roll    滾動
+roller skate    溜冰鞋
+roof    屋頂
+root    根
+rope    繩索
+row     一列
+rub     摩擦
+rubber  橡膠
+rude    粗魯的
+ruin    毀滅
+rush    衝

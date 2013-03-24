@@ -1,67 +1,67 @@
-﻿table tennis
-tail
-talent
-talkative
-tangerine
-tank
-teapot
-tear
-temperature
-temple
-tent
-term
-terrible
-terrific
-textbook
-Thanksgiving
-therefore
-thick
-thief
-thought
-throat
-through
-throw
-thumb
-thunder
-tidy
-tie
-till
-tiny
-tip
-title
-toast
-toe
-tofu
-toilet
-tongue
-tool
-toothache
-toothbrush
-top
-topic
-total
-toward
-tower
-trace
-trade
-tradition
-traditional
-trap
-trash
-travel
-treasure
-treat
-triangle
-trick
-trousers
-trumpet
-trust
-truth
-T-shirt
-tub
-tube
-tunnel
-turkey
-turtle
-twice
-type
+﻿table tennis    桌球
+tail    尾巴
+talent  天資
+talkative       喜歡說話的
+tangerine       橘子
+tank    水槽
+teapot  茶壺
+tear    撕開
+temperature     溫度
+temple  殿堂
+tent    帳篷
+term    期限
+terrible        可怕的
+terrific        可怕的
+textbook        教科書
+Thanksgiving    感恩節
+therefore       因此
+thick   粗的
+thief   小偷
+thought 思考
+throat  喉嚨
+through 穿過
+throw   投擲
+thumb   拇指
+thunder 雷
+tidy    整齊的
+tie     捆紮
+till    直到
+tiny    微小的
+tip     尖端
+title   標題
+toast   吐司
+toe     腳趾
+tofu    豆腐
+toilet  廁所
+tongue  舌頭
+tool    工具
+toothache       牙痛
+toothbrush      牙刷
+top     頂尖的
+topic   話題
+total   合計
+toward  朝向
+tower   塔
+trace   追蹤
+trade   交易
+tradition       傳統
+traditional     傳統的
+trap    陷阱
+trash   垃圾
+travel  旅行
+treasure        財富
+treat   對待
+triangle        三角形
+trick   詭計
+trousers        長褲
+trumpet 喇叭
+trust   信任
+truth   事實
+T-shirt 襯衫
+tub     盆子
+tube    筒
+tunnel  隧道
+turkey  火雞
+turtle  海龜
+twice   兩次
+type    類型

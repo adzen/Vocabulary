@@ -1,11 +1,11 @@
-﻿ugly
-underline
-underpass
-underwear
-unique
-universe
-university
-upon
-upper
-upstairs
-usual
+﻿ugly    難看的
+underline       底線
+underpass       地下道
+underwear       內衣
+unique  獨特的
+universe        宇宙
+university      大學
+upon    在...上面
+upper   較高的
+upstairs        樓上的
+usual   通常的
