@@ -98,7 +98,7 @@ namespace vocabulary
             int accedProb = 0, lastProb = 0, pid = 0;
             foreach (word w in dictionary)
             {
-                accedProb += 1 + (maxQuestioned - w.questioned) + (w.questioned - w.righted);
+                accedProb += 1 + (maxQuestioned - w.questioned) + (w.questioned - w.righted) * 2;
                 if (lastProb / (Double)totalProb <= select && select < accedProb / (Double)totalProb)
                 {
                     return pid;
@@ -120,7 +120,7 @@ namespace vocabulary
             totalProb = 0;
             foreach (word w in dictionary)
             {
-                totalProb += 1 + (maxQuestioned - w.questioned) + (w.questioned - w.righted);
+                totalProb += 1 + (maxQuestioned - w.questioned) + (w.questioned - w.righted) * 2;
             }
         }
 
