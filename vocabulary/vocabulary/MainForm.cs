@@ -178,6 +178,11 @@ namespace vocabulary
                 corrected++;
                 dictionary[selectId].righted++;
             }
+            else 
+            {
+                MessageBox.Show(dictionary[selectId].english + " " + dictionary[selectId].chinese,
+                    "Wrong Answer", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+            }
             randNewProblem();
         }
 
