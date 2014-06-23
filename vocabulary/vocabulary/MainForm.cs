@@ -17,7 +17,8 @@ namespace vocabulary
         public int[] optionId = new int[4]{0,0,0,0};
         public int selectId = 0, rightedId = 0;
         public Random rnd = new Random();
-
+        public int maxQuestioned = 0, totalProb = 0;
+        
         public MainForm()
         {
             InitializeComponent();
@@ -45,24 +46,22 @@ namespace vocabulary
                     return;
                 }
 
+                word aword = new word();
                 if (tokens.Length == 4)
                 {
-                    word aword = new word();
                     aword.questioned = int.Parse(tokens[0]);
                     aword.righted = int.Parse(tokens[1]);
                     aword.english = tokens[2];
                     aword.chinese = tokens[3];
-                    dictionary.Insert(dictionary.Count, aword);                    
                 }
                 else
                 {
-                    word aword = new word();
                     aword.righted = aword.questioned = 0;
                     aword.english = tokens[0];
                     aword.chinese = tokens[1];
-                    dictionary.Insert(dictionary.Count, aword);
                     newWordCount++;
                 }
+                dictionary.Insert(dictionary.Count, aword);
 
                 lineNumber++;
             }
@@ -91,6 +90,40 @@ namespace vocabulary
             statusLabel.Text = corrected.ToString() + @" / " + answered.ToString();
         }
 
+        private int getNewQuesId()
+        {
+            updateProb();
+            
+            Double select = rnd.NextDouble();
+            int accedProb = 0, lastProb = 0, pid = 0;
+            foreach (word w in dictionary)
+            {
+                accedProb += 1 + (maxQuestioned - w.questioned) + (w.questioned - w.righted);
+                if (lastProb / (Double)totalProb <= select && select < accedProb / (Double)totalProb)
+                {
+                    return pid;
+                }
+                lastProb = accedProb;
+                pid++;
+            }
+            return rnd.Next(dictionary.Count);
+        }
+
+        private void updateProb()
+        { 
+            maxQuestioned = 0;
+            foreach(word w in dictionary)
+            {
+                if (w.questioned > maxQuestioned) maxQuestioned = w.questioned;
+            }
+
+            totalProb = 0;
+            foreach (word w in dictionary)
+            {
+                totalProb += 1 + (maxQuestioned - w.questioned) + (w.questioned - w.righted);
+            }
+        }
+
         private void randNewProblem()
         {
             rightedId = rnd.Next(4);
@@ -99,7 +132,7 @@ namespace vocabulary
                 dictionary[optionId[i]].select = false;
                 optionId[i] = -1;
             }
-            optionId[rightedId] = selectId = rnd.Next(dictionary.Count);
+            optionId[rightedId] = selectId = getNewQuesId();
             dictionary[selectId].select = true;
             for (int i = 0; i < 4; ++i)
             {
