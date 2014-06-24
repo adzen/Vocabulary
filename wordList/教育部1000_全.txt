@@ -151,6 +151,7 @@ chance	機會
 change	改變
 cheap	便宜的
 cheat	欺騙
+check	檢查
 cheer	喝采
 cheese	乳酪
 chicken	雞
@@ -641,8 +642,9 @@ pay	付款
 PE	體育
 pen	筆
 pencil	鉛筆
+people	人們
 perhaps	也許
-person	人們
+person	人
 pet	寵物
 piano	鋼琴
 pick	挑選
@@ -756,6 +758,7 @@ sheep	羊
 ship	船
 shirt	襯衫
 shoes	鞋子
+shop	購物
 shopkeeper	商主
 short	短的
 should	應該
@@ -993,8 +996,8 @@ yellow	黃色
 yes	是
 yesterday	昨天
 yet	尚未
-yogurt	優格
 you	你
 young	年輕的
+zebra	斑馬
 zero	零
 zoo	動物園
