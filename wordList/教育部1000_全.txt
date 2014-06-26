@@ -184,7 +184,7 @@ color	顏色
 come	來
 comfortable	舒服的
 comic	漫畫
-commom	共同的
+common	共同的
 computer	電腦
 convenient	方便的
 cook	烹飪
@@ -575,7 +575,6 @@ national	國家的
 near	靠近
 neck	脖子
 need	需要
-neighbor	鄰居
 never	從未
 new	新的
 news	新聞
@@ -998,6 +997,4 @@ yesterday	昨天
 yet	尚未
 you	你
 young	年輕的
-zebra	斑馬
-zero	零
 zoo	動物園
